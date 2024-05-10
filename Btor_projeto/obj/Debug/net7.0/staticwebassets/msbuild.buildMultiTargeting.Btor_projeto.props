@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Btor_projeto.props" />
+</Project>
